@@ -1,5 +1,5 @@
 # Java Backend learning notes
 
-## [JavaSE](/JavaSe/JavaSE.md)
+## [JavaSE](/JavaSE/JavaSE.md)
 
 ## [Design Pattern](/DesignPattern/)
